@@ -5,3 +5,5 @@ git clone <url-du-repository>
 git add <fichiers>
 git commit -m "Message de commit"
 git push origin <branche>
+
+git pull
