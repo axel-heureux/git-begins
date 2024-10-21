@@ -9,4 +9,6 @@ git push origin <branche>
 # Commande de pull
 git pull origin <branche>
 
-zzzz
+# Commande pour créer et switch une branch
+git branch <nom>
+git checkout <nom
