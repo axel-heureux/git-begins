@@ -6,4 +6,5 @@ git add <fichiers>
 git commit -m "Message de commit"
 git push origin <branche>
 
-git pull
+# Commande de pull
+git pull origin <branche>
